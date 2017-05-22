@@ -1,0 +1,25 @@
+@charset="utf-8";
+html{
+	font-size:62%;
+	background:#e7e7e7;
+	height:100%;
+}
+body{
+    font-size:62%;
+	background:#e7e7e7;
+	height:100%;
+	
+}
+ .headtop{
+	font-size:13px;
+	padding:0 10%;
+	background:white;
+	display:flex;
+	justify-content: space-between;
+	align-items:center;
+}
+ .tel{
+	color:#29b078;
+	
+	 line-height:28px;
+}
